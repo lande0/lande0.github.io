@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pages
+title: Back2Basic
 email: yjsuh.sub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  안녕하세요! 이 블로그는 Python을 활용한 머신러닝, 딥러닝, 데이터 분석 및 LLM(Large Language Model)을 다루며, 실무적으로 도움이 되는 기술과 사례를 정리해드립니다. 최신 트렌드와 심화 기술을 습득하고, 실제 프로젝트에 응용할 수 있는 실질적인 인사이트를 얻어가세요. 함께 성장하며 Python의 무한한 가능성을 탐구해봅시다!
+  이 블로그는 초보자부터 실무자까지 도움이 될 수 있는 기술과 실무적인 내용을 정리하여 공유하기 위해 운영됩니다. 주로 AI 모델 개발 및 데이터 분석에 필요한 내용을 다루며, AI를 도입하려는 부서의 리더분들에게도 유용한 정보를 제공할 계획입니다. 함께 성장하며 Python과 AI의 가능성을 탐구해봅시다!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://https://lande0.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  lande0
 
